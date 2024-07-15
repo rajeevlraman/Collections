@@ -1,5 +1,5 @@
 ---
 ---
-# A Collection of infdormation and Commands
+# A Collection of information and Commands
 
-Welcome to my new documentation site!
+Welcome to my site for information!
